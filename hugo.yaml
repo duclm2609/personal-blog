@@ -2,3 +2,6 @@ baseURL: "https://duclm.dev/"
 languageCode: "en-us"
 title: "Le Minh Duc"
 theme: "PaperMod"
+markup:
+  highlight:
+    style: onedark
